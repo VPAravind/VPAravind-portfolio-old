@@ -132,23 +132,39 @@ a:hover {
   bottom: 300px;
 }
 
+.java{
+  width: 45%;
+}
+
 .node{
-  width: 70%;
+  width: 65%;
 }
 .backend{
   width: 50%;
 }
 .backend-server{
-  width: 70%;
+  width: 65%;
+}
+
+.front-end{
+  width: 53%;
+}
+
+.redux{
+  width: 45%;
+}
+
+.react{
+  width: 55%;
 }
 
 
 .js{
-  width: 40%;
+  width: 45%;
 }
 
 .py{
-  width:45%;
+  width:50%;
 }
 
 .left-wrap {
